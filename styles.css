@@ -1,0 +1,24 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+}
+
+canvas {
+    border: 1px solid #000;
+    background-color: white;
+}
+
+.controls {
+    margin-top: 20px;
+}
+
+button {
+    margin: 0 5px;
+    padding: 8px 16px;
+    cursor: pointer;
+} 
